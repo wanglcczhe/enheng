@@ -1,9 +1,46 @@
 ;(function(){
 	"use strict"
+//初始化	
+	class Init{
+		constructor(){
+			this.user = document.querySelector("header h3 span");
+			this.withdraw=document.querySelector("header h3 i");
+			this.getmsg();
+			this.addEvent();
+		}
+		getmsg(){
+			this.usermsg = localStorage.getItem("usermsg") ? JSON.parse(localStorage.getItem("usermsg")) : [];
+			this.verification(); 		
+		}
+		addEvent(){
+			this.withdraw.onclick = ()=>{
+                for(var i=0;i<this.usermsg.length;i++){
+                    if(this.name == this.usermsg[i].user){
+                        this.usermsg[i].onoff = 0;
+                        this.user.style.display = "none";
+                        this.withdraw.style.display = "none";
+                        localStorage.setItem("usermsg",JSON.stringify(this.usermsg))
+                        return ;
+                    }
+                }
+            }
+		}
+		verification(){
+			for(var i=0;i<this.usermsg.length;i++){
+                if(this.usermsg[i].onoff == 1){
+                    this.user.innerHTML = this.usermsg[i].user;
+                    this.name = this.usermsg[i].user;                   
+                    return;
+                }
+           }									
+		}		
+	}
+	
+	
+	new Init();
+//切换省份	
 	var cp=document.getElementById("changeP");
 	var prov=document.querySelector("#province");
-
-//切换省份	
 	cp.onmouseover=function(){
 		prov.style.display="block";	
 		
@@ -221,6 +258,7 @@
 		constructor(){
 			this.cont=document.querySelector("#main .daily ul");
 			this.url="http://localhost/lecuntao/src/root/data/goods.json";
+			this.sc=document.querySelector(".shoppingcart b");
 			this.init();
 			this.addEvent();		
 		}
@@ -234,11 +272,10 @@
 				}
 			})			
 		}
-		show(){
-			
+		show(){			
 			var str="";
 			for(var i=0;i<this.res.length;i++){				
-				str+=`<li class="box" index="${this.res[i].goodsId}">
+				str+=`<li class="box" index=${this.res[i].goodsId}">
 						<a href="#">
 							<b>${this.res[i].name}</b>
 							<i>${this.res[i].msg}</i>
@@ -283,7 +320,7 @@
 				}]
 			}
 			setCookie("goods",JSON.stringify(this.goods));
-			getCookie("goods")
+			getCookie("goods");
 				
 		}	
 			

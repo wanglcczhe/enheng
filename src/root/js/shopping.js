@@ -75,5 +75,5 @@
             setCookie("goods",JSON.stringify(this.goods))
        }			
 	}
-		new ShoppingCart();	
+	new ShoppingCart();	
 })();

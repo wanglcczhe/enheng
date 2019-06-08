@@ -1,6 +1,8 @@
 html{width:100%;}
 header{width:2400px;height:64px;background:#f1f1f1;border-bottom:2px solid #e7e7e7;margin:0 auto;}
 header h3{float:left;font:24px/64px "";color:#666;}
+header h3 span{color:#006DD9;}
+header h3 i{color:#E02E3C;font-size: 12px;cursor:pointer;}
 header .nav{float:right}
 header .nav span{font:24px/64px "";color:#666;}
 header .nav .dz{float:left;margin-right: 22px;}

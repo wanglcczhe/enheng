@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>用户注册</title>
+		<title>用户登录</title>
 		<link rel="stylesheet" type="text/css" href="css/public.css"/>
 		<link rel="stylesheet" type="text/css" href="css/register.css"/>
 	</head>
@@ -11,19 +11,25 @@
 			<div class="margin">
 				<a href="index.html"><img src="imgs/logo.png" class="logo"/></a>
 				<span>|</span>
-				<i>用户注册</i>
+				<i>用户登录</i>
 				<a href="index.html" id="index">返回平台首页></a>
 			</div>
 		</header>
-		<section id="form">
-			<p><span>用户名: </span><input type="text"/></p>
-			<p><span>密&nbsp;&nbsp;&nbsp;&nbsp;码: </span><input type="text" /></p>			
-			<span></span>
-			<i>注册</i>
-			<a>已有账号?请登录</a>
+		<section id="login">
+			<div class="deng">
+				<h3>登录乐村淘会员</h3>
+				<p><span>用户名: </span><input type="text" id="user"/></p>
+				<p><span>密&nbsp;&nbsp;&nbsp;&nbsp;码: </span><input type="text" id="pass"/></p>
+				<s class="msg"></s>
+				<a class="ga" id="btn">登录</a>
+				<i>还没账号？<a>先注册</a></i>
+			</div>			
 		</section>
+		
+		
 		<footer>
 			<img src="imgs/foot.png"/>
 		</footer>
 	</body>
+	<script src="js/login.js" type="text/javascript" charset="utf-8"></script>
 </html>
