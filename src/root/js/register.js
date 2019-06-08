@@ -24,7 +24,7 @@
                     pass:this.pass.value,
                     onoff:0
                 }]
-                this.msg.innerHTML = "";
+                this.msg.innerHTML = "注册成功";
             }else{
                 this.usermsg = JSON.parse(localStorage.getItem("usermsg"));
                 for(var i=0;i<this.usermsg.length;i++){

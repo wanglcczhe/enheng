@@ -51,6 +51,18 @@
 	cp.onmouseout=function(){
 		prov.style.display="none";	
 	}
+//楼层	
+	$(".floor").children("p").click(function(){
+		$("html").animate({
+            scrollTop:$("div.fl").eq($(this).index()).offset().top
+        })
+    })
+	$(".floor").children("h3").click(function(){
+		$("html").animate({
+            scrollTop:0
+        })
+   })
+	
 //搜索框	
 	class SearchBox{
 		constructor(){
@@ -272,10 +284,10 @@
 				}
 			})			
 		}
-		show(){			
+		show(){
 			var str="";
-			for(var i=0;i<this.res.length;i++){				
-				str+=`<li class="box" index=${this.res[i].goodsId}">
+			for(var i=0;i<this.res.length;i++){
+				str+=`<li class="box" index="${this.res[i].goodsId}">
 						<a href="#">
 							<b>${this.res[i].name}</b>
 							<i>${this.res[i].msg}</i>

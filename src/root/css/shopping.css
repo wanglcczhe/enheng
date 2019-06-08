@@ -15,7 +15,7 @@ main dl dd .goods{width:290px;}
 main dl dd .goods img{width:100px;height:100px ;float: left;margin-right: 20px;}
 main dl dd .goods a{font:14px/2 "";color:#333;}
 main dl dd i{display:block;height:20px;width:60px;text-align: center;font:14px/2 "";color:#D20000;}
-main dl dd #num{height:20px;width:40px;text-align: center;}
+main dl dd input{height:20px;width:40px;text-align: center;}
 main dl dd b{display:block;width:40px;height:20px;background: #00C3FA;border-radius: 5px;text-align: center;font: 12px/20px "";cursor:pointer;}
 
 

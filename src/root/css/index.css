@@ -175,6 +175,15 @@ header .nav ul li span.te{margin-left: 2px;}
 
 
 #main{width:2400px;}
+#main .floor{width: 60px;height:240px;background: #0066CC;position: fixed;left: 0;top:312px;display:flex;flex-direction: column;justify-content: space-between;}
+#main .floor p{background: #fff;width: 60px; height: 60px;font:16px/60px "";color:#151515;text-align: center;border-bottom:1px solid #5B5B5B;}
+#main .floor p:hover{background:#E02E3C;color:#fff;cursor: pointer;}
+#main .floor h3{background: #fff;width: 60px; height: 60px;font:16px/60px "";color:#151515;text-align: center;}
+#main .floor h3:hover{background:#E02E3C;color:#fff;cursor: pointer;}
+
+.gouwu{width: 32px;height:100px;background: #393B40;position: fixed;right: 0;top:180px;text-align: center;}
+.gouwu a{font:14px/30px "";color: #fff;}
+
 
 #main .daily{height:1100px;}
 #main .daily h3{height:174px;border-bottom:4px solid #e0aaf8 ;font:700 40px/230px "";color:#000000;}

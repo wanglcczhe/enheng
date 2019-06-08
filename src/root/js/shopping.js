@@ -18,9 +18,11 @@
 		}
 		getCookie(){
 			this.goods=JSON.parse(getCookie("goods"));
-			this.show();				
+			this.show();	
+//console.log(this.goods)
 		}
 		show(){
+			console.log(this.res)
 			var str="";
 			for(var i=0;i<this.res.length;i++){
 				for(var j=0;j<this.goods.length;j++){
@@ -32,13 +34,15 @@
 											<a href="#">${this.res[i].msg}</a>
 										</p>
 									<i>${this.res[i].price}</i>
-									<input type="number" min="1" id="num" value="${this.goods[j].num}">
+									<input type="number" min="1" value="${this.goods[j].num}">
 									<b class="delete">删除</b>
 							</dd>`
 					}						
+					
 				}
 			}
 			this.body.innerHTML=str;
+			console.log(str)
 		}
 		addEvent(){
 			var that=this;
