@@ -1,0 +1,16 @@
+header{height:196px}
+
+#main {height:400px;width: 100%;}
+.s_box{width: 400px;height: 300px;position: absolute;left: 50px;top: 100px;margin-top: 140px;}
+.s_box img{width: 400px;height: 300px;}
+.s_box span{width: 100px;height: 75px;position: absolute;left: 0;top: 0;background: rgba(200,200,200,.6);display: none;}
+.b_box{width: 400px;height: 300px;position: absolute;left: 500px;top: 100px;overflow: hidden;display: none;margin-top: 140px;}
+.b_box img{width: 1600px;height: 1200px;position: absolute;}
+		
+
+
+
+
+
+
+

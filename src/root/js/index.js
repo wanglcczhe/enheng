@@ -288,7 +288,7 @@
 			var str="";
 			for(var i=0;i<this.res.length;i++){
 				str+=`<li class="box" index="${this.res[i].goodsId}">
-						<a href="#">
+						<a href="details.html">
 							<b>${this.res[i].name}</b>
 							<i>${this.res[i].msg}</i>
 							<img src="${this.res[i].src}"/>														
