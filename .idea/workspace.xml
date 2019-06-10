@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5aed5f5-04cb-4157-9081-39b526ec4cb2" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/root/xijie/js/magnifier.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/05017778645734281.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/b_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/base2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/cert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/common.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/compare.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/core.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/dialog(1).css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/dialog.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/erm224.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/ewm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/f3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/gswj_icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/home_header2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/home_login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/jquery.cookie.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/jquery.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/jquery.lazyload.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/jquery.masonry.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/jquery.mousewheel.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/jquery.ui.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/jquery.validation.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/llj19_dp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/perfect-scrollbar.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/pic.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/side_base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/sp_23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/special_base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/template.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/wbewm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/root/imgs/乐村淘-中国领先的农村电商平台_files/z_stat.php" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/root/xijie/xijie.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/root/xijie/js/magnifier.js" />
+        <option value="$PROJECT_DIR$/src/root/xijie/xijie.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope '项目文件'; set:项目文件; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="lecuntao" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\phpnow\htdocs\lecuntao" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="lecuntao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="lecuntao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="lecuntao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="root" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="lecuntao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="root" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="lecuntao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="root" type="462c0819:PsiDirectoryNode" />
+              <item name="xijie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="lecuntao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="root" type="462c0819:PsiDirectoryNode" />
+              <item name="xijie" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1903" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\phpnow\htdocs\lecuntao\src\root\xijie\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5aed5f5-04cb-4157-9081-39b526ec4cb2" name="默认更改列表" comment="" />
+      <created>1560150352340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560150352340</updated>
+      <workItem from="1560150353611" duration="267000" />
+      <workItem from="1560150644710" duration="495000" />
+      <workItem from="1560151364656" duration="50000" />
+      <workItem from="1560151919242" duration="404000" />
+      <workItem from="1560163886725" duration="3230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4446000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4885246" visible="true" weight="0.17708333" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5114754" side_tool="true" weight="0.2596726" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="调试" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/root/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="418" column="29" selection-start-line="418" selection-start-column="29" selection-end-line="418" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/root/login.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/root/xijie/js/magnifier.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2214">
+          <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/root/xijie/xijie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

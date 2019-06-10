@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>商品详情</title>
+	<link rel="stylesheet" href="../css/public.css"/>
+	<script type="text/javascript" src="../js/jquery.2.2.4.js"></script>
+	<script type="text/javascript" src="js/magnifier.js"></script>
+	<style type="text/css">
+		header{width: 1366px;height: 195px;margin: 0 auto;}
+		footer{width: 1366px;height: 395px;margin: 0 auto;}
+		/*#main{width: 1366px;height: 600px;margin: 0 auto;}*/
+		.box{
+			margin-left:100px;
+			margin-top:50px;
+			width:400px;
+			height:500px;
+			border:1px solid #444;
+		}
+		.boxtop{
+			height:400px;
+			width:100%;
+		}
+		.boxbottom img{
+			height:50px;
+			width:50px;
+			margin-left:20px;
+		}
+	</style>
+	<script type="text/javascript">
+		$(function(){
+			var kkk ="";
+			$(".box").html("<div class='boxtop'></div><div class='boxbottom'></div>")
+			for(var i=0;i<5;i++){
+				kkk += "<img src='"+(i+1)+".jpg'/>"
+			}
+			magnifier(".boxtop",400,400,"1.jpg",200,200,500)  //调用
+			$(".boxbottom").html(kkk);
+			$(".boxbottom").children().click(function(){
+				magnifier(".boxtop",400,400,$(this).index()+1+".jpg",200,200,500)//调用
+			})
+		})
+	</script>
+</head>
+<body>
+<header><img src="../imgs/h3.png"/>></header>
+<div class="box"></div>
+<footer><img src="../imgs/f4.png"/></footer>
+</body>
+</html>
